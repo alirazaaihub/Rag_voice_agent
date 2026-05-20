@@ -1,0 +1,7 @@
+livekit-agents
+livekit-plugins-openai
+livekit-plugins-silero
+livekit-plugins-noise-cancellation
+langgraph
+langchain
+python-dotenv
