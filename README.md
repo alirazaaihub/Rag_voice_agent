@@ -137,6 +137,7 @@ python-dotenv
 - Never commit your `.env` file. Add it to `.gitignore`.
 
 ---
+📌 [LinkedIn](www.linkedin.com/in/alirazaaihub)
 
 ## 📄 License
 
